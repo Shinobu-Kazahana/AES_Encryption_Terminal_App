@@ -57,19 +57,3 @@ class exe {
 let app = new exe()
 app.getInput()
 
-
-//
-// let input = prompt(chalk.green("Enter The Secret Key "))
-// //let ciphertext = "CryptoJS.AES.encrypt(JSON.stringify('this is a top level super secret key oh yeeeeeaaaaahhhh'), 'ilovethissomuch').toString();"
-// //console.log(ciphertext)
-// let bytes = CryptoJS.AES.decrypt('U2FsdGVkX18hZhkxfdlRrdT9mJQEbIkOntD5eyjHKQEuSu9Xf0U/D9wb5hBrXmywva00K1jxfyjokhRekwKqHxDqfjsYJSFegc0VycIc8O0=', input);
-//
-// try {
-//     let decryptedData = JSON.parse(bytes.toString(CryptoJS.enc.Utf8));
-//     console.log(decryptedData)
-//
-// } catch {
-//     console.log("nope thats the wrong key")
-// }
-//
-// input = prompt()
