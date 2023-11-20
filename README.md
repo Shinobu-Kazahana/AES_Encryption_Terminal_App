@@ -15,4 +15,4 @@ A test of AES Encryption and how it works, This node app lets you input a key an
 Simply clone the repository or download the zip, EXE versions for linux, Mac OS and Windows are included.
 
 ## Screenshots
-![Image 1](./5.png)
+![Image 1](./5.JPG)
