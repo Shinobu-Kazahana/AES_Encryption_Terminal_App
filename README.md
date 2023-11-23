@@ -7,7 +7,7 @@
 ██║  ██║███████╗███████║    ███████╗██║ ╚████║╚██████╗██║  ██║   ██║   ██║        ██║   ██║╚██████╔╝██║ ╚████║    ██║  ██║██║     ██║     
 ╚═╝  ╚═╝╚══════╝╚══════╝    ╚══════╝╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝   ╚═╝   ╚═╝        ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝    ╚═╝  ╚═╝╚═╝     ╚═╝   
 ---------------------------------------------------
-Node cli to encrypt and decrypt messages
+Node app to encrypt and decrypt messages
 </pre>
 A test of AES Encryption and how it works, This node app lets you input a key and a secret message and output an encrypted version.You can also insert an encrypted message and decrypt it.
 
